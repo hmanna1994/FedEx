@@ -28,6 +28,9 @@
             android:id="@+id/settings"
             android:icon="@drawable/ic_menu_gallery"
             android:title="Settings" />
+        <item
+            android:id="@+id/things"
+            android:title="Final" />
 
 
     </group>
